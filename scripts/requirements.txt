@@ -1,0 +1,12 @@
+# Core
+opencv-python
+numpy
+pytesseract
+rapidfuzz
+tqdm
+streamlit
+
+# Hugging Face
+huggingface_hub
+datasets
+Pillow
