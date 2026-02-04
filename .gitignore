@@ -35,3 +35,6 @@ Thumbs.db
 # Poppler binaries (optional - can be downloaded)
 poppler/
 poppler.zip
+
+# Split dataset folder
+OCR-DATASET/
